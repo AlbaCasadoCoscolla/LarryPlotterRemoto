@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-Alba Casado almuna
+Alba Casado alumna de clase
+
